@@ -1,0 +1,28 @@
+{
+  "name": "altnode.feedback-delay-node",
+  "description": "altnode.FeedbackDelayNode",
+  "version": "0.1.1",
+  "author": "Nao Yonamine <mohayonao@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/altnode/feedback-delay-node/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "package.json",
+    "README.md",
+    "index.js",
+    "lib"
+  ],
+  "homepage": "https://github.com/altnode/feedback-delay-node",
+  "keywords": [
+    "Web Audio API"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/altnode/feedback-delay-node.git"
+  },
+  "scripts": {}
+}
