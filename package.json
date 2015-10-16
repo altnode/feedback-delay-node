@@ -7,7 +7,7 @@
     "url": "https://github.com/altnode/feedback-delay-node/issues"
   },
   "dependencies": {
-    "altnode.audio-node": "^0.1.1"
+    "altnode.alt-audio-node": "^0.2.0"
   },
   "devDependencies": {
     "babel": "^5.8.23",
