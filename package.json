@@ -1,13 +1,13 @@
 {
   "name": "altnode.feedback-delay-node",
   "description": "altnode.FeedbackDelayNode",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Nao Yonamine <mohayonao@gmail.com>",
   "bugs": {
     "url": "https://github.com/altnode/feedback-delay-node/issues"
   },
   "dependencies": {
-    "altnode.audio-node": "^0.1.1"
+    "altnode.alt-audio-node": "^0.2.0"
   },
   "devDependencies": {
     "babel": "^5.8.23",

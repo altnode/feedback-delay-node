@@ -1,7 +1,7 @@
-import AudioNode from "altnode.audio-node";
+import AltAudioNode from "altnode.alt-audio-node";
 import { DELAY, FEEDBACK } from "./symbols";
 
-export default class FeedbackDelayNode extends AudioNode {
+export default class FeedbackDelayNode extends AltAudioNode {
   constructor(audioContext, maxDelayTime = 1.0) {
     super(audioContext);
 

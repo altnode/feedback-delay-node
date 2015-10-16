@@ -3,6 +3,8 @@
 [![NPM Version](http://img.shields.io/npm/v/altnode.feedback-delay-node.svg?style=flat-square)](https://www.npmjs.org/package/altnode.feedback-delay-node)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://mohayonao.mit-license.org/)
 
+![graph](https://github.com/altnode/feedback-delay-node/wiki/images/feedback-delay-node.png)
+
 ## Installation
 
 ```
@@ -10,7 +12,7 @@ npm install -S altnode.feedback-delay-node
 ```
 
 ## API
-### AudioNode
+### FeedbackDelayNode
 - `constructor(audioContext: AudioContext, maxDelayTime = 1)`
 
 #### Instance attributes
